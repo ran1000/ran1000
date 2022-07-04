@@ -7,7 +7,7 @@
 
 - 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet)
 
-- 🤝 I’m looking for collaborations with **creative coders**
+- 🤝 I’m looking for collaborations with **creative people**
 
 - 👨‍💻 Some of my projects are available on [Troopl](https://troopl.com/ricardoalexisnader)
 
