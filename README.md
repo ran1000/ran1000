@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A bold full-stack developer from Italy</h3>
+<h3 align="center">A bold full-stack developer from Europe</h3>
 
 - 🔭 I’m currently coding on [JS Playground](https://github.com/ran1000/js-playground)
 
