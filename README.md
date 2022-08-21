@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">A bold full-stack developer from Europe</h3>
 
-- 🔭 I’m currently coding on [JS Playground](https://github.com/ran1000/js-playground)
+- 🔭 I’m currently coding on [Rantelier](https://github.com/ran1000/rails-atelier)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m mainly learning **React** 
 
-- 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet)
+- 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet) with [Andrea](https://github.com/Culosride), [Sebastian](https://github.com/slvm93) and [Florian](https://github.com/floreba)
 
-- 🤝 I’m looking for collaborations with **creative people**
+- 🤝 I’m looking for collaborations with **all creative** and **positive people**
 
 - 👨‍💻 Some of my projects are available on [Troopl](https://troopl.com/ricardoalexisnader)
 
