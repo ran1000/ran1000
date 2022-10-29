@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for collaborations with **all creative** and **positive people**
 
-- 👨‍💻 Some of my projects are available on [Troopl](https://troopl.com/ricardoalexisnader)
+- 👨‍💻 Some of my previous projects are available on [Troopl](https://troopl.com/ricardoalexisnader)
+
+- Something **more about me** 👉 [here](https://ran1000.github.io/profile/) 👈
 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/ricardonader/)
 
