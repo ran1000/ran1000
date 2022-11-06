@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">A bold full-stack developer from Europe</h3>
 
-- 🔭 I’m currently coding on [Rantelier](https://github.com/ran1000/rails-atelier)
+- 🔭 I’m currently coding on [ran_atelier](https://github.com/ran1000/rails-atelier)
 
 - 🌱 I’m mainly learning **React** for [Fun](https://ran1000.github.io/react-app-05/)
 
