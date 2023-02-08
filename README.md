@@ -5,7 +5,7 @@
 
 - 🌱 I’m mainly learning **React** for [Fun](https://ran1000.github.io/react-app-05/)
 
-- 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet) ([live](http://www.spotaloo.lol/toilets)) with [Andrea](https://github.com/Culosride), [Sebastian](https://github.com/slvm93) and [Florian](https://github.com/floreba)
+- 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet) with [Andrea](https://github.com/Culosride), [Sebastian](https://github.com/slvm93) and [Florian](https://github.com/floreba)
 
 - 🤝 I’m looking for collaborations with **all creative** and **positive people**
 
