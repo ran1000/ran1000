@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">A bold full-stack developer from Europe</h3>
 
-- 🔭 I’m currently coding on [swap resi](https://github.com/ran1000/swap-resi) live [here](http://www.arting.live/) ✨ and [yoga home](https://github.com/AleEspo/yoga-project3-client) live [here](https://yogahome.netlify.app/)🧘  together with [Alessandro](https://github.com/AleEspo) 🙌
+- 🔭 I’m currently coding on [arting](https://github.com/ran1000/swap-resi) live [here](http://www.arting.live/) ✨ and [yoga home](https://github.com/AleEspo/yoga-project3-client) live [here](https://yogahome.netlify.app/)🧘  together with [Alessandro](https://github.com/AleEspo) 🙌
 
 - 🌱 I’m mainly learning **React** for [Fun](https://ran1000.github.io/react-app-05/)
 
