@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">A bold full-stack developer from Europe</h3>
 
+In 2021 I got involved with the creative coding community, writing some generative art micro-projects. After graduating from Le Wagon Berlin and developing 2 web-apps, I’m joining the Tech-Scene as a skilled developer, while working as a teaching assistant at Le Wagon and freelancing.
+
 - 🔭 I’m currently coding on [arting](https://github.com/ran1000/swap-resi) live [here](http://www.arting.live/) ✨ and [yoga home](https://github.com/AleEspo/yoga-project3-client) live [here](https://yogahome.netlify.app/)🧘  together with [Alessandro](https://github.com/AleEspo) 🙌
 
-- 🌱 I’m mainly learning **React** for [Fun](https://ran1000.github.io/react-app-05/)
+- 🌱 I’m learning about **Microservices** and **React** mainly for [Fun](https://ran1000.github.io/react-app-05/)
 
 - 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet) with [Andrea](https://github.com/Culosride), [Sebastian](https://github.com/slvm93) and [Florian](https://github.com/floreba)
 
