@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ricardo</h1>
 <h3 align="center">A bold full-stack developer from Europe</h3>
 
-In 2021 I got involved with the creative coding community, writing some generative art micro-projects. After graduating from Le Wagon Berlin and developing 2 web-apps, I’m joining the Tech-Scene as a skilled developer, while working as a teaching assistant at Le Wagon and freelancing.
+In 2021 I got involved with the creative coding community, writing some generative art micro-projects. After graduating from Le Wagon Berlin and developing 2 web-apps, I’m joining the Tech-Scene as a skilled developer, while working as a teaching assistant at Le Wagon.
 
 I am currently learning about microservices software architecture and working on a few personal projects that explore AI-integrations in the design industry.
 
