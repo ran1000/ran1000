@@ -9,7 +9,7 @@ I am currently learning about microservices software architecture and working on
 
 - 🌱 Learning about **Microservices** 
 
-- Building things with **React** for [Fun](https://ran1000.github.io/react-app-05/)
+- 🏗 Building things with **React** for [Fun](https://ran1000.github.io/react-app-05/)
 
 - 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet) with [Andrea](https://github.com/Culosride), [Sebastian](https://github.com/slvm93) and [Florian](https://github.com/floreba)
 
