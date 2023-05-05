@@ -7,15 +7,15 @@ I am currently learning about microservices software architecture and working on
 
 - 🔭 Coding on [arting](https://github.com/ran1000/swap-resi) live [here](http://www.arting.live/) ✨ and [yoga home](https://github.com/AleEspo/yoga-project3-client) live [here](https://yogahome.netlify.app/)🧘  together with [Alessandro](https://github.com/AleEspo) 🙌
 
-- 🌱 Learning about **Microservices** and **React** mainly for [Fun](https://ran1000.github.io/react-app-05/)
+- 🌱 Learning about **Microservices** 
+
+- Building things with **React** for [Fun](https://ran1000.github.io/react-app-05/)
 
 - 👯 I've been working at Le Wagon on [Spotaloo](https://github.com/ran1000/rate_your_toilet) with [Andrea](https://github.com/Culosride), [Sebastian](https://github.com/slvm93) and [Florian](https://github.com/floreba)
 
 - 🤝 Always looking for collaborations with **all creative** and **positive people**
 
-- 👨‍💻 Some of my previous projects are available on [Troopl](https://troopl.com/ricardoalexisnader)
-
-- ➕ Something **more about me** 👉 [here](https://ran1000.github.io/profile/) 👈
+- ➕ Some of **my features** 👉 [here](https://ran1000.github.io/profile/) 👈
 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/ricardonader/)
 
